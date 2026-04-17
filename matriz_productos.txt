@@ -1,0 +1,3 @@
+Bateria,Televisor,Portatil,Reloj digital
+P. Ventas,P. Blog,Escritorio,App edicion
+Mouse,Impresora,Audifonos,

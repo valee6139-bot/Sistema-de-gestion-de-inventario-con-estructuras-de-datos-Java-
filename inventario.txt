@@ -1,0 +1,11 @@
+Mouse,61
+Portatil,14
+Audifonos,110
+Impresora,20
+Pagina de blog,17
+Reloj digital,64
+Pagina de ventas,26
+Aplicación de juegos,64
+Aplicación de edición,7
+Bateria,2
+Tablet,6

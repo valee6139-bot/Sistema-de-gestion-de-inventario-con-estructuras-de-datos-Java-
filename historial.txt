@@ -1,0 +1,50 @@
+Producto agregado: Aplicación de edición - Cantidad: 6
+Producto agregado: Aplicación de juegos - Cantidad: 5
+Producto agregado: Pagina de ventas - Cantidad: 4
+Producto agregado: Reloj digital - Cantidad: 29
+Producto agregado: Pagina de blog  - Cantidad: 2
+Producto agregado: Impresora - Cantidad: 79
+Producto agregado: Audífonos - Cantidad: 89
+Producto agregado: Portátil - Cantidad: 576
+Producto agregado: Televisor - Cantidad: 76
+Producto agregado: Celular - Cantidad: 57
+Producto agregado: Mouse - Cantidad: 45
+
+Producto actualizado: Mouse - Cantidad anterior: 45, nueva cantidad: 15
+Producto actualizado: Celular - Cantidad anterior: 57, nueva cantidad: 9
+Producto actualizado: Televisor - Cantidad anterior: 76, nueva cantidad: 20
+Producto actualizado: Televisor - Cantidad anterior: 20, nueva cantidad: 6
+Producto actualizado: Portatil - Cantidad anterior: 576, nueva cantidad: 14
+Producto actualizado: Audifonos - Cantidad anterior: 89, nueva cantidad: 13
+Producto actualizado: Impresora - Cantidad anterior: 79, nueva cantidad: 20
+Producto actualizado: Pagina de blog - Cantidad anterior: 2, nueva cantidad: 17
+Producto actualizado: Reloj digital - Cantidad anterior: 29, nueva cantidad: 64
+Producto repuesto: Pagina de ventas - Nueva cantidad: 30
+Producto actualizado: Pagina de ventas - Cantidad anterior: 30, nueva cantidad: 26
+Producto actualizado: Aplicación de juegos - Cantidad anterior: 5, nueva cantidad: 64
+Producto actualizado: Aplicación de edición - Cantidad anterior: 6, nueva cantidad: 7
+Producto repuesto: Celular - Nueva cantidad: 76
+Producto actualizado: Celular - Cantidad anterior: 76, nueva cantidad: 756
+Producto eliminado: Celular - Cantidad: 756
+Producto actualizado: Televisor - Cantidad anterior: 6, nueva cantidad: 2
+Producto actualizado: Mouse - Cantidad anterior: 15, nueva cantidad: 1
+Producto agregado: Bateria - Cantidad: 567
+Producto actualizado: Bateria - Cantidad anterior: 567, nueva cantidad: 5
+Producto eliminado: Bateria - Cantidad: 5
+Producto eliminado: Televisor - Cantidad: 2
+Producto agregado: Bateria - Cantidad: 72
+Producto repuesto: Bateria - Nueva cantidad: 76
+Producto repuesto: Bateria - Nueva cantidad: 80
+Producto actualizado: Bateria - Cantidad anterior: 80, nueva cantidad: 2
+Producto agregado: Teclado - Cantidad: 5
+Producto eliminado: Teclado - Cantidad: 5
+Producto agregado: Teclado - Cantidad: 5
+Producto agregado: Tablet - Cantidad: 5
+Producto actualizado: Tablet - Cantidad anterior: 5, nueva cantidad: 6
+Producto agregado: P - Cantidad: 875
+Producto actualizado: P - Cantidad anterior: 875, nueva cantidad: 456
+Producto eliminado: P - Cantidad: 456
+Producto repuesto: Mouse - Nueva cantidad: 61
+Producto actualizado: Audifonos - Cantidad anterior: 13, nueva cantidad: 50
+Producto eliminado: Teclado - Cantidad: 5
+Producto actualizado: Audifonos - Cantidad anterior: 50, nueva cantidad: 110
